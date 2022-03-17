@@ -305,5 +305,9 @@ const QUOTES = [
 	 author:"Steve Jobs"},
     {
            quote: "If you can dream it, you can achieve it.",
-	 author:"Zig Ziglar"}
+	 author:"Zig Ziglar"},
+    {
+	   quote:"You did not came into this world, you come out of it, like a wave from the ocean.",
+	 author:"Alan Watts"},
+
     ]
